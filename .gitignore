@@ -1,0 +1,39 @@
+# Object files
+*.o
+*.obj
+*.elf
+*.c~
+*.h~
+*.cof
+*.rom
+*.i
+*.lst
+*.inc
+*.asm
+*.a
+*.c_cbf
+*.h_cbf
+*.eep
+*.out
+*.pr~
+
+# Precompiled Headers
+*.hdr
+*.h!
+*.c!
+*.str*
+
+# Libraries
+*.lib
+*.ol
+*.al
+
+# Shared objects (inc. Windows DLLs)
+
+# Executables
+*.hex
+
+# Debug files
+*.map
+*.vec
+*.sym*

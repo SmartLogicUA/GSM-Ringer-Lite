@@ -1,0 +1,5 @@
+BootLoader v1.4 for board v8.1.X (speed - 9600)
+Fuse bit: BODLEVEL1=0;
+          BOOTRST=0;
+          BOOTSZ0=0;
+          BOOTSZ1=0;
